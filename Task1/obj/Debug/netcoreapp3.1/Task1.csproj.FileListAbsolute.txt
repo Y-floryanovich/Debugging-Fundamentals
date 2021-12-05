@@ -1,0 +1,10 @@
+C:\Debugging Fundamentals\Task1\bin\Debug\netcoreapp3.1\Task1.deps.json
+C:\Debugging Fundamentals\Task1\bin\Debug\netcoreapp3.1\Task1.dll
+C:\Debugging Fundamentals\Task1\bin\Debug\netcoreapp3.1\Task1.pdb
+C:\Debugging Fundamentals\Task1\obj\Debug\netcoreapp3.1\Task1.csproj.AssemblyReference.cache
+C:\Debugging Fundamentals\Task1\obj\Debug\netcoreapp3.1\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Debugging Fundamentals\Task1\obj\Debug\netcoreapp3.1\Task1.AssemblyInfoInputs.cache
+C:\Debugging Fundamentals\Task1\obj\Debug\netcoreapp3.1\Task1.AssemblyInfo.cs
+C:\Debugging Fundamentals\Task1\obj\Debug\netcoreapp3.1\Task1.csproj.CoreCompileInputs.cache
+C:\Debugging Fundamentals\Task1\obj\Debug\netcoreapp3.1\Task1.dll
+C:\Debugging Fundamentals\Task1\obj\Debug\netcoreapp3.1\Task1.pdb
